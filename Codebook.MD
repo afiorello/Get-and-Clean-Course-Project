@@ -1,4 +1,4 @@
-Data Set Code Book: final_main.txt
+Data Set Code Book: final_means.txt
 
 Codebook
 February 22, 2015
