@@ -71,7 +71,3 @@ The following explains the 10 step process used to transform Human Activity Reco
 
 END
 
-codeBk<-data.frame(names(by_act_sub_sum))
-View(codeBk)
-write.table(codeBk, file="code_book.txt", row.names=FALSE)
-
